@@ -64,4 +64,11 @@ A **race** is taking place between the two individuals, to see who can reach the
 
 There are lot more things that are to be added to this idea, in order to make this project into a reality, however this draft contains an overview on what we are aiming to achieve. More detailed documentation will be added as we explore the idea.
 
+<h3 align="left"><b/>How a Application UI Looks like :-</h3>
+
+If we open the app it will show up a signup page where you have to fill all the requirements which is required (take a refrence of step -2)
+then there will be the profile with the same interest peoples from where you will ask them to start a buddy system (refrence tinder you swipe your interest same you will do here)
+
+If they accept your request a buddy system will be started and then your step 3 will start, Now there will be a parameter graph which will show both of your progress and if yourgraph in -ve you will be notified and you will be shifted to a cooldown period where you will get 2 days to maintain your graph and if you are able to do so yo will be continued to that person otherwise the buddy system will break and then you will start matching again.
+
 Thanks You For Reading!
