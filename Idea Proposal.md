@@ -6,7 +6,7 @@
 
 - **Description**: 
 
-**Welcome** to the draft for **Rival** **System**!
+**Welcome** to the draft for **My Rival/iI-mio-rivale**!
 
 The idea is to create an application that would allow similar people to connect with each other and engage in a healthy, kind of, one-on-one competition.
 
