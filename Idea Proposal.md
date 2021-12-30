@@ -1,4 +1,15 @@
+<!--The Title and the relevant tags-->
+
+---------
 <h1 align="center"><b>The Foundation Of The Project</b></h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-38ffbd.svg?logo=kotlin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-fcfcfc.svg?logo=figma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569b.svg?logo=flutter&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intellij IDEA-050505.svg?logo=intellij-idea&style=for-the-badge" />
+</div>
+
+---------
 
 - **Date**: 17-12-2021
 
