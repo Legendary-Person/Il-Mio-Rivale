@@ -17,16 +17,29 @@
 </div>
 
 ---------
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Cloud-green"/>
+  <img src="https://img.shields.io/badge/Open-Source-neon"/>
+  <img src="https://img.shields.io/badge/Developer-blue"/>
+  <img src="https://img.shields.io/badge/Programmer-purple"/>
+  <img src="https://img.shields.io/badge/React-Native-brightgreen"/>
+  <img src="https://img.shields.io/badge/Ktor-Framework-yellowgreen"/>
+  <img src="https://img.shields.io/badge/JetBrains-Software-gold"/>
+</p>
 
-- **Date**: 17-12-2021
+---------
+<h3 align="center"><b/>╵🌠〢・Welcome to the draft for My Rival/II-Mio-Rivale!</h3>
 
-- **Time**: _01:02_
+---------
+<h2 align="left"><b>╵♕〢・Project Stats</b></h2>
 
-- **Credits**: _Itish Srivastava_, _Prakhar Singh_
-
-- **Description**: 
-
-**Welcome** to the draft for **My Rival/II-Mio-Rivale**!
+> - **Date**: 17-12-2021
+>
+> - **Time**: _01:02 a.m_
+>
+> - **Credits**: _Itish Srivastava_, _Prakhar Singh_, _Ajay Khatri_
+>
+> - **Description**: 
 
 The idea is to create an application that would allow similar people to connect with each other and engage in a healthy, kind of, one-on-one competition.
 
