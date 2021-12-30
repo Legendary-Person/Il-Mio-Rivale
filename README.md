@@ -1,6 +1,6 @@
 -------
 <p align="center">
-<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/gif/Banner.gif" width="1100px" height="250px"/>
+<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/gif/ProjectBanner.gif" width="1100px" height="250px"/>
 </p>
 
 -------
