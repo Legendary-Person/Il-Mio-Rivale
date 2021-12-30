@@ -10,10 +10,3 @@
 <br/>
 Open-Source Project under development.
 
--------
-<p align="center">
-<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png"/>
-<!--Primary Banner IMG Link="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png"-->
-</p>
-
--------
