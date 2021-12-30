@@ -1,45 +1,22 @@
-<!--Primary Banner IMG Link="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png"-->
+---------
+<h1 align="center"><b>The Foundation Of The Project  <img width="30px" height="20px" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"/></b></h1>
 
--------
-<div align="center">
-<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/picture/Proposal-Banner.png"/>
-</div>
-
-<!--The Title and the relevant tags-->
+----------
+----------
+<h3 align="center"><b/>╵🌠〢・Welcome to the draft for My Rival/II-Mio-Rivale! <img weight="25px" height="25px" src="https://gist.githubusercontent.com/george-martinec/b48f38e9af7391c89d52a4a573c6f32d/raw/49abada42f16ca6a3209f52dca2d42d48c0fb1f0/Hello.gif"></h3>
 
 ---------
-<h1 align="center"><b>The Foundation Of The Project</b></h1>
-<div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-38ffbd.svg?logo=kotlin&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-fcfcfc.svg?logo=figma&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569b.svg?logo=flutter&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Intellij IDEA-050505.svg?logo=intellij-idea&style=for-the-badge" />
-</div>
-
----------
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-Cloud-green"/>
-  <img src="https://img.shields.io/badge/Open-Source-neon"/>
-  <img src="https://img.shields.io/badge/Developer-blue"/>
-  <img src="https://img.shields.io/badge/Programmer-purple"/>
-  <img src="https://img.shields.io/badge/React-Native-brightgreen"/>
-  <img src="https://img.shields.io/badge/Ktor-Framework-yellowgreen"/>
-  <img src="https://img.shields.io/badge/JetBrains-Software-gold"/>
-</p>
-
----------
-<h3 align="center"><b/>╵🌠〢・Welcome to the draft for My Rival/II-Mio-Rivale!</h3>
-
----------
-<h2 align="left"><b>╵♕〢・Project Stats</b></h2>
-
+> <h2 align="left"><b>╵📢〢・Project Stats</b></h2>
+>
 > - **Date**: 17-12-2021
 >
 > - **Time**: _01:02 a.m_
 >
 > - **Credits**: _Itish Srivastava_, _Prakhar Singh_, _Ajay Khatri_
 >
-> - **Description**: 
+>
+---------
+<br/>
 
 The idea is to create an application that would allow similar people to connect with each other and engage in a healthy, kind of, one-on-one competition.
 
@@ -103,3 +80,35 @@ then there will be the profile with the same interest peoples from where you wil
 If they accept your request a buddy system will be started and then your step 3 will start, Now there will be a parameter graph which will show both of your progress, and if your graph is in -ve you will be notified and you will be shifted to a cooldown period where you will get 2 days to maintain your graph and if you are able to do so you will be continued to that person otherwise the buddy system will break and then you will start matching again.
 
 Thank You For Reading!
+
+---------
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-38ffbd.svg?logo=kotlin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-fcfcfc.svg?logo=figma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569b.svg?logo=flutter&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intellij IDEA-050505.svg?logo=intellij-idea&style=for-the-badge" />
+</div>
+
+---------
+<!--Primary Banner IMG Link="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png"-->
+
+-------
+<div align="center">
+<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/picture/Proposal-Banner.png"/>
+</div>
+
+<!--The Title and the relevant tags-->
+
+---------
+---------
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Cloud-green"/>
+  <img src="https://img.shields.io/badge/Open-Source-neon"/>
+  <img src="https://img.shields.io/badge/Developer-blue"/>
+  <img src="https://img.shields.io/badge/Programmer-purple"/>
+  <img src="https://img.shields.io/badge/React-Native-brightgreen"/>
+  <img src="https://img.shields.io/badge/Ktor-Framework-yellowgreen"/>
+  <img src="https://img.shields.io/badge/JetBrains-Software-gold"/>
+</p>
+
+---------
