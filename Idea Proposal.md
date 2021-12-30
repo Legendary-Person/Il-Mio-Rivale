@@ -2,7 +2,7 @@
 
 -------
 <div align="center">
-<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png"/>
+<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/picture/Proposal-Banner.png"/>
 </div>
 
 <!--The Title and the relevant tags-->
