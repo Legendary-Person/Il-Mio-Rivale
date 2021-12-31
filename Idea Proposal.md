@@ -12,7 +12,7 @@
 >
 > - **Time**: _01:02 a.m_
 >
-> - **Credits**: _Itish Srivastava_, _Prakhar Singh_, _Ajay Khatri_
+> - **Credits**: _Itish Srivastava_, _Prakhar Singh_, _Ajay Khatri Chhetri_
 >
 >
 ---------
@@ -38,7 +38,7 @@ Well, peer pressure is a great, constant, motivator.
 
 The feeling of urgency, haste, fear of being left in the dust, forces us to work and stay focused. Especially for students, when your classmate has completed the entire chemistry syllabus, a sudden unsettling feeling grabs hold of you, telling you to catch up with your classmate.
 
-This restlessness forces us to study and try to close the gap between ourselves and our classmate.
+This restlessness forces us to study and try to close the gap between ourselves and our classmates.
 
 **The same concept can be applied to studies or general life, we set goals and compare ourselves with someone who has similar agendas, while simultaneously trying to better ourselves, better than the other person.**
 
@@ -50,15 +50,15 @@ Of course, there are lot many variables that may affect the progress of the two 
 
 What if we are able to create a proper pseudo-paradox, with a proper end-goal **(exit-condition)**?
 
-1. **Step-1:**
+〢 1. **Step-1:**
 
 We aim to make an application that would pair two individuals, on the basis of their similarities and goals **(this data can be collected beforehand through a comprehensive questionnaire)**. 
 
-2. **Step-2:**
+〢 2. **Step-2:**
 
 We can then ask the individuals to set certain goals, time-table, dates, tasks, etc. through mutual agreement **(can be done through an in-build voting system)**.
 
-3. **Step-3**
+〢 3. **Step-3**
 
 Once they have identified their goals, we can then start a race. Imagine all their goals lay on a progress bar and as you accomplish a certain task, the progress bar moves forward, on to the next goal while the same thing happens with the other individual.
 
@@ -72,7 +72,7 @@ A **race** is taking place between the two individuals, to see who can reach the
 
 There are lot more things that are to be added to this idea, in order to make this project a reality, however, this draft contains an overview of what we are aiming to achieve. More detailed documentation will be added as we explore the idea.
 
-<h3 align="left"><b>How a Application UI Looks like :-</b></h3>
+<h3 align="left"><b>How an Application UI Looks like:</b></h3>
 
 If we open the app it will show up a signup page where you have to fill all the requirements which are required (take a reference to step -2)
 then there will be the profile with the same interest peoples from where you will ask them to start a buddy system (reference tinder you swipe your interest same you will do here)
