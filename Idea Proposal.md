@@ -2,7 +2,7 @@
 <h1 align="center"><b>The Foundation Of The Project  <img width="30px" height="20px" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"/></b></h1>
 
 ----------
-<br/>
+<img src="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/gif/Project%20Foundation.gif"/>
 
 ----------
 <h3 align="center"><b/>╵🌠〢・Welcome to the draft for My Rival/II-Mio-Rivale! <img weight="25px" height="25px" src="https://gist.githubusercontent.com/george-martinec/b48f38e9af7391c89d52a4a573c6f32d/raw/49abada42f16ca6a3209f52dca2d42d48c0fb1f0/Hello.gif"></h3>
