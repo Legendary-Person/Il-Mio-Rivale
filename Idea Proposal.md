@@ -2,6 +2,8 @@
 <h1 align="center"><b>The Foundation Of The Project  <img width="30px" height="20px" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"/></b></h1>
 
 ----------
+<br/>
+
 ----------
 <h3 align="center"><b/>╵🌠〢・Welcome to the draft for My Rival/II-Mio-Rivale! <img weight="25px" height="25px" src="https://gist.githubusercontent.com/george-martinec/b48f38e9af7391c89d52a4a573c6f32d/raw/49abada42f16ca6a3209f52dca2d42d48c0fb1f0/Hello.gif"></h3>
 
@@ -43,22 +45,39 @@ This restlessness forces us to study and try to close the gap between ourselves 
 **The same concept can be applied to studies or general life, we set goals and compare ourselves with someone who has similar agendas, while simultaneously trying to better ourselves, better than the other person.**
 
 Hence we enter a pseudo-paradox where two individuals push each other to improve and best the other person.
+<br/>
 
-- **Link**: https://www.entrepreneur.com/article/236470
+--------
+<p align="center"><b>Link</b>: https://www.entrepreneur.com/article/236470</p>
+
+--------
+<br/>
 
 Of course, there are lot many variables that may affect the progress of the two individuals, resulting in one of them soundly leaving the other in the dust. However what if we somehow manage to eliminate most of these variables?
 
 What if we are able to create a proper pseudo-paradox, with a proper end-goal **(exit-condition)**?
+<br/>
 
-〢 1. **Step-1:**
+---------
+> <p align="center">〢 1. <b>Step-1:</b></p>
+
+---------
 
 We aim to make an application that would pair two individuals, on the basis of their similarities and goals **(this data can be collected beforehand through a comprehensive questionnaire)**. 
+<br/>
 
-〢 2. **Step-2:**
+----------
+> <p align="center">〢 2. <b>Step-2:</b></p>
+
+----------
 
 We can then ask the individuals to set certain goals, time-table, dates, tasks, etc. through mutual agreement **(can be done through an in-build voting system)**.
+<br/>
 
-〢 3. **Step-3**
+----------
+> <p align="center">〢 3. <b>Step-3</b></p>
+
+----------
 
 Once they have identified their goals, we can then start a race. Imagine all their goals lay on a progress bar and as you accomplish a certain task, the progress bar moves forward, on to the next goal while the same thing happens with the other individual.
 
@@ -71,15 +90,23 @@ A **race** is taking place between the two individuals, to see who can reach the
 **(Cases of disputes, regarding anything, will be handled by a none-partial, third person, a staff member.)**
 
 There are lot more things that are to be added to this idea, in order to make this project a reality, however, this draft contains an overview of what we are aiming to achieve. More detailed documentation will be added as we explore the idea.
+<br/>
 
-<h3 align="left"><b>How an Application UI Looks like:</b></h3>
+----------
+<h2 align="center"><b>How an Application UI Looks like:</b></h2>
 
+----------
 If we open the app it will show up a signup page where you have to fill all the requirements which are required (take a reference to step -2)
 then there will be the profile with the same interest peoples from where you will ask them to start a buddy system (reference tinder you swipe your interest same you will do here)
 
 If they accept your request a buddy system will be started and then your step 3 will start, Now there will be a parameter graph which will show both of your progress, and if your graph is in -ve you will be notified and you will be shifted to a cooldown period where you will get 2 days to maintain your graph and if you are able to do so you will be continued to that person otherwise the buddy system will break and then you will start matching again.
+<br/>
 
-Thank You For Reading!
+---------
+<p align="center">Thank You For Reading!</p>
+
+---------
+<br/>
 
 ---------
 <div align="center">
