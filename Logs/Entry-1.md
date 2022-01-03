@@ -7,9 +7,12 @@
 <h1 align="center">𝕾𝖙𝖆𝖋𝖋 𝕷𝖔𝖌𝖘</h1>
 
 --------
-> -Admin_Name: Itish Srivastava
-> -Entry_1: Logs folder up and running.
-> -Next_Task: Start with making the application logo.
-> -Status: Log Off
+> * Admin_Name: Itish Srivastava
+> 
+> * Entry_1: Logs folder up and running.
+> 
+> * Next_Task: Start with making the application logo.
+> 
+> * Status: Log Off
 
 --------
