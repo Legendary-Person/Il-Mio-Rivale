@@ -102,30 +102,33 @@ then there will be the profile with the same interest peoples from where you wil
 If they accept your request a buddy system will be started and then your step 3 will start, Now there will be a parameter graph which will show both of your progress, and if your graph is in -ve you will be notified and you will be shifted to a cooldown period where you will get 2 days to maintain your graph and if you are able to do so you will be continued to that person otherwise the buddy system will break and then you will start matching again.
 <br/>
 
-
+---------
 <h2 align="center"><b>Technologies Required:</b></h2>
 
-**App build**
--> Kotlin 
-->Android Studio/Intlij 
-**App Design**
-->XML
-**Database**
--> MYSQL, SQLITE, FIREBASE MANNAGEMENT, MONGODB
-**Apis**
-->Python
-**Version Control**
-->Git & Github
-<br/>
-
-----------
-
+---------
+> ## ╵➠〢・**App build**
+>> - Kotlin 
+>> - Android Studio/Intellij 
+>> - React Native
+>
+> ## ╵➠〢・**App Design**
+>> - XML
+>
+> ## ╵➠〢・**Database**
+>> - MYSQL 
+>> - SQLITE
+>> - FIREBASE MANNAGEMENT 
+>> - MONGODB
+>
+> ## ╵➠〢・**Apis**
+>> - Python
+>
+> ## ╵➠〢・**Version Control**
+>> - Git 
+>> - Github
 
 ---------
 <p align="center">Thank You For Reading!</p>
-
----------
-<br/>
 
 ---------
 <div align="center">
