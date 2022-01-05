@@ -113,6 +113,7 @@ If they accept your request a buddy system will be started and then your step 3 
 >
 > ## ╵➠〢・**App Design**
 >> - XML
+>> - Figma (UI/UX)
 >
 > ## ╵➠〢・**Database**
 >> - MYSQL 
