@@ -138,7 +138,6 @@ If they accept your request a buddy system will be started and then your step 3 
   <img src="https://img.shields.io/badge/Intellij IDEA-050505.svg?logo=intellij-idea&style=for-the-badge" />
 </div>
 
----------
 <!--Primary Banner IMG Link="https://github.com/Legendary-Person/Il-Mio-Rivale/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png"-->
 
 -------
@@ -148,7 +147,6 @@ If they accept your request a buddy system will be started and then your step 3 
 
 <!--The Title and the relevant tags-->
 
----------
 ---------
 <p align="center">
   <img src="https://img.shields.io/badge/Google-Cloud-green"/>
