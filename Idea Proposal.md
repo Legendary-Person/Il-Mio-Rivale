@@ -10,11 +10,11 @@
 ---------
 > <h2 align="left"><b>╵📢〢・Project Stats</b></h2>
 >
-> - **Date**: 17-12-2021
+**Date**: ```17-12-2021```
 >
-> - **Time**: _01:02 a.m_
+**Time**: ```01:02 a.m```
 >
-> - **Credits**: _Itish Srivastava_, _Prakhar Singh_, _Ajay Khatri Chhetri_
+**Credits**: ```Itish Srivastava, Prakhar Singh, Ajay Khatri Chhetri```
 >
 >
 ---------
